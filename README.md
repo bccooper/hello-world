@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+I am just trying to figure out what im doing with my life.
